@@ -5,7 +5,7 @@
 #平台特性
 1. 语音通信遵循SIP协议，基于[FreeSWITCH](http://www.freeswitch.org)进行语音接入
 2. 呼叫控制遵循CSTAII协议
-3. 网络通信使用[BGCC](https://github.com/BaiduCC/BGCC/)组件
+3. 网络通信使用[BGCC](https://github.com/IsayIsee/BGCC/)组件
 4. 通过软件实现高可靠性，降低硬件依赖和成本
 5. 完备的二次开发接口和平台
 6. 百度内部大规模应用（10000坐席以上），稳定性保持在99.996%以上
