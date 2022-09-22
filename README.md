@@ -2,11 +2,6 @@
 
 百度开发的一套基于互联网应用模式的呼叫中心套件，采用颠覆式的技术模式，无需任何专有硬件设备，以通用服务器+软件的模式，依靠云计算等技术，完成语音的交换和呼叫的控制，在大幅降低呼叫中心建设成本的同时，仍然具有无法比拟的高可靠性。
 
-#联系方式 	
-
-1. [**在线咨询**](http://p.qiao.baidu.com//im/index?siteid=5677496&ucid=7880242) 	
-2. QQ群： **83412519**
-
 #平台特性
 1. 语音通信遵循SIP协议，基于[FreeSWITCH](http://www.freeswitch.org)进行语音接入
 2. 呼叫控制遵循CSTAII协议
@@ -77,7 +72,7 @@
 1. [How To INSTALL](./INSTALL.md)
 
 #配置说明
-1. [访问wiki](https://github.com/Baidu-ecom/CC/wiki)
+1. [访问wiki](https://github.com/IsayIsee/CC/wiki)
 
 #License
 1. [Apache 2.0](./LICENSE)
